@@ -1,5 +1,4 @@
 require('./updatable');
-require('../lib/p5/p5');
 
 export default class Car extends Updatable {
     constructor(velocity) {
