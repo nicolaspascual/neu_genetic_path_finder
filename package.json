@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "p5": "^0.5.16"
   }
 }
