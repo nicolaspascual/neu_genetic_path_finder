@@ -1,0 +1,18 @@
+{
+  "name": "genetic_neural_network_path_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "directores": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "build": "webpack"
+  },
+  "author": "Nicolás Pascual González",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
